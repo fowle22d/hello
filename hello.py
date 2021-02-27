@@ -6,6 +6,6 @@ Change it to say hello to your name.
 
 from goodbye import goodbye
 
-print("hello world")
+print("hello Delaney")
 
 goodbye()
